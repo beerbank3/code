@@ -2,9 +2,7 @@
 
 1. filter
 <code>
-```
 Model.objects.filter(조건)
-```
 </code>
 
 <code>
